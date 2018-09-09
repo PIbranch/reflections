@@ -20,10 +20,10 @@ stored locally?
 
     Can be controlled the differences between my local and the others so I can delete differences and create a common version.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
+5- How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Sharing the changes with another persons decreases the possibility of doing mistakes.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
